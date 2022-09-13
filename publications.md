@@ -4,6 +4,8 @@ title:
 permalink: /research/
 ---
 
+## Publications 
+
 - [Qingxuan Jiang](https://scholar.google.com/citations?user=D7TlJL4AAAAJ&hl=en), Tian Lan, [Kasso Okoudjou](https://math.tufts.edu/people/facultyOkoudjou.htm), [Robert Strichartz](https://math.cornell.edu/robert-s-strichartz), Shashank Sule, and Sreeram Venkat. [Sobolev Orthogonal Polynomials on the Sierpinski Gasket](https://link.springer.com/article/10.1007/s00041-021-09819-0#citeas), J Fourier Anal Appl 27, 38 (2021). [[arXiv](https://arxiv.org/abs/2010.00107)] [[code](https://github.com/s769/op_on_sg)]
 
 ## Selected Talks 
