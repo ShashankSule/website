@@ -9,7 +9,7 @@ excerpt: "Next meeting: Friday, September 16th, 2:00 pm, Kirwan Hall 1310.
 
 In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. They are divided into two families: diffusion map-based and neural network-based. In this RIT we will explore methods for the study of rare events based on machine learning.
 
-Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Manyuan Tao](mailto:mtao1@umd.edu), [Shashank Sule]({% link index.md %})
+Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Manyuan Tao](mailto:mtao1@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
 
 ## Next Meeting
 
