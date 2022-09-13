@@ -2,6 +2,7 @@
 layout: post
 title:  "RIT: Machine Learning For Rare Events"
 comments: false
+permalink: /RIT/
 excerpt: "Next meeting: Friday, September 16th, 2:00 pm, Kirwan Hall 1310. 
          Speaker: Luke Evans (UMD)"
 ---
