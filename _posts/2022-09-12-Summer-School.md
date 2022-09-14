@@ -8,4 +8,4 @@ I spent last week attending the [Applied Harmonic Analysis and Machine Learning 
 
 <!--end_excerpt-->
 
-If you're a UMD graduate student and have any questions about how to get your department to ~bankroll~ support you financially, I'd be happy to answer any questions based on my experience.
+If you're a UMD graduate student and have any questions about how to get your department to ~~bankroll~~ support you financially, I'd be happy to answer any questions based on my experience.
