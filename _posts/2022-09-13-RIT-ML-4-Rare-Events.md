@@ -40,7 +40,7 @@ with Perdikaris and Karniadakis: PINNs
 
 Sep 09: Organizational Meeting
 
-Sep 16: Luke Evans
+Sep 16: Luke Evans, Computing committors via Mahalanobis diffusion maps with enhanced sampling data
 
 Sep 23: Margot Yuan
 
