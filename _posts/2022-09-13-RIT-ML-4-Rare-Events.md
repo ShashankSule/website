@@ -17,6 +17,8 @@ When/Where: Friday, September 16th 2022, 2:00 pm, Kirwan Hall 1310.
 
 Speaker:  Luke Evans (UMD)
 
+Title: Computing committors via Mahalanobis diffusion maps with enhanced sampling data
+
 ## Program 
 
 Each meeting, one of the participants will give a talk on a paper relevant to the subject of the RIT or on his/her research if it is related to ML or rare events.
