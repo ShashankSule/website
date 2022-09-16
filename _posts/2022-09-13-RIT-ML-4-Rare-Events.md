@@ -42,7 +42,7 @@ Sep 09: Organizational Meeting
 
 Sep 16: Luke Evans, Computing committors via Mahalanobis diffusion maps with enhanced sampling data
 
-Sep 23: Margot Yuan
+Sep 23: Margot Yuan, Optimal controller and estimation of transition rate in Transition Path Theory  
 
 Sep 30:
 
