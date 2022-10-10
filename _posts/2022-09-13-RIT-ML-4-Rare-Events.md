@@ -3,8 +3,8 @@ layout: post
 title:  "Fall 2022 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: Friday, September 23rd, 2:00 pm, Kirwan Hall 1310. 
-         Speaker: Margot Yuan (UMD)"
+excerpt: "Next meeting: Friday, October 14th, 2:00 pm, Kirwan Hall 1310. 
+         Speaker: Shashank Sule (UMD)"
 ---
 
 In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. They are divided into two families: diffusion map-based and neural network-based. In this RIT we will explore methods for the study of rare events based on machine learning.
@@ -13,11 +13,11 @@ Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Manyuan Ta
 
 ## Next Meeting
 
-When/Where: Friday, September 23rd 2022, 2:00 pm, Kirwan Hall 1310. 
+When/Where: Friday, October 14th, 2:00 pm, Kirwan Hall 1310. 
 
-Speaker:  Margot Yuan (UMD)
+Speaker:  Shashank Sule
 
-Title: Optimal controller and estimation of transition rate in Transition Path Theory
+Title: Error Analysis of Target Measure Diffusion Maps on R^d with applications to Transition Path Theory
 
 ## Program 
 
@@ -46,7 +46,7 @@ Sep 23: Margot Yuan, Optimal controller and estimation of transition rate in Tra
 
 Sep 30:
 
-Oct 14: Shashank Sule, Error analysis of Target Measure Diffusion Maps
+Oct 14: Shashank Sule, Error analysis of Target Measure Diffusion Maps with applications to Transition Path Theory
 
 Oct 21: Ke Chen
 
