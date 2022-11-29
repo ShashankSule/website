@@ -3,8 +3,8 @@ layout: post
 title:  "Fall 2022 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: Friday, November 11th, 2:00 pm, Kirwan Hall 1310. 
-         Speaker: Manyuan Tao (UMD)"
+excerpt: "Next meeting: Friday, December 2nd, 2:00 pm, Kirwan Hall 1310. 
+         Speaker: Christopher Moakler (UMD)"
 ---
 
 In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. They are divided into two families: diffusion map-based and neural network-based. In this RIT we will explore methods for the study of rare events based on machine learning.
@@ -13,11 +13,11 @@ Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Manyuan Ta
 
 ## Next Meeting
 
-When/Where: Friday, November 11th, 2:00 pm, Kirwan Hall 1310. 
+When/Where: Friday, December 2nd, 2:00 pm, Kirwan Hall 1310. 
 
-Speaker: Manyuan Tao
+Speaker: Christopher Moakler
 
-Title: Modeling the fracture of polymer networks
+Title: 
 
 ## Program 
 
@@ -58,7 +58,7 @@ Nov 11: Manyuan Tao, Modeling the fracture of polymer networks
 
 Nov 18:
 
-Dec 02: Chris Moakler
+Dec 02: Christopher Moakler
 
 Dec 09:
 
