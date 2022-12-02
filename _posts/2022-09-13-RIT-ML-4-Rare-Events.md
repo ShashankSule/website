@@ -17,7 +17,9 @@ When/Where: Friday, December 2nd, 2:00 pm, Kirwan Hall 1310.
 
 Speaker: Christopher Moakler
 
-Title: 
+Title: Approximating Noisy Nonlinear Oscillator Dynamics using Markov Chains
+
+Abstract: Turbine blades in aircraft or energy harvesting windmills can be modeled as nonlinear oscillators driven by a periodic force and subject to noisy perturbations. These systems exhibit behavior where the individual blades experience oscillations that are sometimes very large in amplitude which can be detrimental. By understanding the dynamics of these stochastic systems we can transition them from a high amplitude oscillation to a low amplitude oscillation. In this talk I will discuss an approach using analog Markov chains to map out the state space and calculate the committer function and escape rate between high and low amplitude attractors.
 
 ## Program 
 
@@ -58,7 +60,7 @@ Nov 11: Manyuan Tao, Modeling the fracture of polymer networks
 
 Nov 18:
 
-Dec 02: Christopher Moakler
+Dec 02: Christopher Moakler, Approximating Noisy Nonlinear Oscillator Dynamics using Markov Chains
 
 Dec 09:
 
