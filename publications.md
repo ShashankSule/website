@@ -20,9 +20,9 @@ permalink: /research/
 
 ## Selected Posters 
 
-- [Neural network interpretation using descrambler groups: do all roads lead to the SVD?]({{" /assets/files/research/Descrambling__Poster_main.pdf"}}), [Fall Fourier Talks 2022](https://www.norbertwiener.umd.edu/FFT/2022/index.html)
+- [Neural network interpretation using descrambler groups: do all roads lead to the SVD?]({{ site.baseurl }}{% link /assets/files/research/Descrambling__Poster_main.pdf %}), [Fall Fourier Talks 2022](https://www.norbertwiener.umd.edu/FFT/2022/index.html)
 
-- [Error analysis of Target Measure Diffusion Maps]({{" /assets/files/research/TMD_maps__Poster-2.pdf"}}), [Applied Harmonic Analysis and Machine Learning Summer School](https://malga.unige.it/education/schools/ahaml2022/), MaLGa, Universita Di Genova 
+- [Error analysis of Target Measure Diffusion Maps]({{ site.baseurl }}{% link /assets/files/research/TMD_maps__Poster-2.pdf %}), [Applied Harmonic Analysis and Machine Learning Summer School](https://malga.unige.it/education/schools/ahaml2022/), MaLGa, Universita Di Genova 
 
-- [Young Mathematicians Conference](https://ymc.math.osu.edu/2019/program.php), Ohio State University, 2019. [Chebyshev and Sobolev Orthogonal Polynomials on the Sierpinski Gasket]({{" /assets/files/research/C_SOP_SG_Post.pdf"}})
+- [Young Mathematicians Conference](https://ymc.math.osu.edu/2019/program.php), Ohio State University, 2019. [Chebyshev and Sobolev Orthogonal Polynomials on the Sierpinski Gasket]({{ site.baseurl }}{% link /assets/files/research/C_SOP_SG_Post.pdf %})
 
