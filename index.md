@@ -9,7 +9,7 @@ Hello! I'm Shashank and I am a third-year PhD student in the [Applied Mathematic
 
 This semester I am co-organizing the [ML for Rare Events RIT]({{ site.baseurl }}{% post_url 2022-09-13-RIT-ML-4-Rare-Events %}). Please contact [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/) in case you need to register for credit!
 
-Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV-3.pdf %}) or [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. 
+Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV_ShashankSule.pdf %}) or [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. 
 
 ## Recent posts
 
