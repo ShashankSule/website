@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title:
 permalink: 
 ---
 <img src="https://www.terpconnect.umd.edu/~ssule25/assets/images/profile1.jpeg" width= "300" align="right" style="border-radius:50%"/> 
