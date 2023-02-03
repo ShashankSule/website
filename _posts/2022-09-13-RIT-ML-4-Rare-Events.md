@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Fall 2022 RIT: Machine Learning For Rare Events"
+title:  "Spring 2023 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: Friday, December 2nd, 2:00 pm, Kirwan Hall 1310. 
-         Speaker: Christopher Moakler (UMD)"
+excerpt: "Next meeting: Friday, February 10th, 2:00 pm, Kirwan Hall 1310. 
+         Speaker: Margot Yuan (UMD)"
 ---
 
-In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. They are divided into two families: diffusion map-based and neural network-based. In this RIT we will explore methods for the study of rare events based on machine learning.
+In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. In this RIT we will explore methods for the study of rare events based on machine learning.
 
-Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Manyuan Tao](mailto:mtao1@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
+Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Margot Yuan](mailto:jyuan@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
 
 ## Next Meeting
 
-When/Where: Friday, December 2nd, 2:00 pm, Kirwan Hall 1310. 
+When/Where: Friday, February 10th, 2:00 pm, Kirwan Hall 1310. 
 
-Speaker: Christopher Moakler
+Speaker: Margot Yuan
 
-Title: Approximating Noisy Nonlinear Oscillator Dynamics using Markov Chains
+<!-- Title: Approximating Noisy Nonlinear Oscillator Dynamics using Markov Chains
 
-Abstract: Turbine blades in aircraft or energy harvesting windmills can be modeled as nonlinear oscillators driven by a periodic force and subject to noisy perturbations. These systems exhibit behavior where the individual blades experience oscillations that are sometimes very large in amplitude which can be detrimental. By understanding the dynamics of these stochastic systems we can transition them from a high amplitude oscillation to a low amplitude oscillation. In this talk I will discuss an approach using analog Markov chains to map out the state space and calculate the committer function and escape rate between high and low amplitude attractors.
+Abstract: Turbine blades in aircraft or energy harvesting windmills can be modeled as nonlinear oscillators driven by a periodic force and subject to noisy perturbations. These systems exhibit behavior where the individual blades experience oscillations that are sometimes very large in amplitude which can be detrimental. By understanding the dynamics of these stochastic systems we can transition them from a high amplitude oscillation to a low amplitude oscillation. In this talk I will discuss an approach using analog Markov chains to map out the state space and calculate the committer function and escape rate between high and low amplitude attractors. -->
 
 ## Program 
 
@@ -40,28 +40,14 @@ with Perdikaris and Karniadakis: PINNs
 
 ## Schedule 
 
-Sep 09: Organizational Meeting
+Feb 03: Maria Cameron, Organizational meeting
 
-Sep 16: Luke Evans, Computing committors via Mahalanobis diffusion maps with enhanced sampling data
+Feb 10: Margot Yuan 
 
-Sep 23: Margot Yuan, Optimal controller and estimation of transition rate in Transition Path Theory  
+Feb 17: Zhejiang Sun 
 
-Sep 30: No meeeting
+Feb 24: 
 
-Oct 14: Shashank Sule, Error analysis of Target Measure Diffusion Maps with applications to Transition Path Theory
 
-Oct 21: Ke Chen, Finite expression method for solving high dimensional PDEs
-
-Oct 28: Junaid Aftab, Variational quantum simulation of stochastic differential equations (Moved to Nov 4th)
-
-Nov 04: Junaid Aftab, Variational quantum simulation of stochastic differential equations
-
-Nov 11: Manyuan Tao, Modeling the fracture of polymer networks
-
-Nov 18:
-
-Dec 02: Christopher Moakler, Approximating Noisy Nonlinear Oscillator Dynamics using Markov Chains
-
-Dec 09:
 
 
