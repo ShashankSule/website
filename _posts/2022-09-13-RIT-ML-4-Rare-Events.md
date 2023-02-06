@@ -21,9 +21,9 @@ Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for
 
 **Feb 03**: Maria Cameron, *Model reduction and machine learning for quantifying rare events in stochastic systems (Organizational meeting)*. [Slides]({{ site.baseurl }}{% link /assets/files/rit_ml4re/1_ModelReduction.pdf %})
 
-**Feb 10**: Margot Yuan 
+**Feb 10**: Margot Yuan, *Causal disentanglement using causal graph: autoencoderns for learning image descriptions in simple terms* 
 
-**Feb 17**: Zhejiang Sun 
+**Feb 17**: Zezheng Song, *Finite expression method for solving PDEs. Application to the committor problem*  
 
 ## Suggestions for papers:
 
