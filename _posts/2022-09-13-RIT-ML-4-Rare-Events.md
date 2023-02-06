@@ -11,25 +11,23 @@ In recent years, machine learning techniques have penetrated a tremendous variet
 
 Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Margot Yuan](mailto:jyuan@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
 
-## Next Meeting
-
-When/Where: Friday, February 10th, 2:00 pm, Kirwan Hall 1310. 
-
-Speaker: Margot Yuan
-
-<!-- Title: Approximating Noisy Nonlinear Oscillator Dynamics using Markov Chains
-
-Abstract: Turbine blades in aircraft or energy harvesting windmills can be modeled as nonlinear oscillators driven by a periodic force and subject to noisy perturbations. These systems exhibit behavior where the individual blades experience oscillations that are sometimes very large in amplitude which can be detrimental. By understanding the dynamics of these stochastic systems we can transition them from a high amplitude oscillation to a low amplitude oscillation. In this talk I will discuss an approach using analog Markov chains to map out the state space and calculate the committer function and escape rate between high and low amplitude attractors. -->
-
-## Program 
-
-Each meeting, one of the participants will give a talk on a paper relevant to the subject of the RIT or on his/her research if it is related to ML or rare events.
-
 ## Registration 
 
-There is an option for students to register for this RIT for one credit. In order to register, students need to contact Jessica Sadler (jsadler at umd dot edu), the AMSC program coordinator, and provide their UID. Students who has registered are expected to give a talk.
+Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk. 
 
-## Suggestions for Papers:
+## Schedule 
+
+**Time/Location**: Fridays at 2:00 pm, Kirwan Hall 1310. 
+
+**Feb 03**: Maria Cameron, *Model reduction and machine learning for quantifying rare events in stochastic systems (Organizational meeting)*. [Slides]({{ site.baseurl }}{% link /assets/files/rit_ml4re/1_ModelReduction.pdf %})
+
+**Feb 10**: Margot Yuan 
+
+**Feb 17**: Zhejiang Sun 
+
+## Suggestions for papers:
+
+You can give a talk on your research or on any paper of your choice if it is related to machine learning or rare events. Below are some suggested papers on model reduction and autoencoders: 
 
 ### Model reduction
 
@@ -57,16 +55,7 @@ There is an option for students to register for this RIT for one credit. In orde
 
 5. E. Crabtree, J. Bello-Rivas, A. Ferguson, I. Kevrekidis, GANs and closures: micro-macro consistency in multiscale modeling, 2022
 
-## Schedule 
+<!-- ## Program 
 
-Feb 03: Maria Cameron, Model reduction and machine learning for quantifying rare events in stochastic systems (Organizational meeting). [Slides]({{ site.baseurl }}{% link /assets/files/rit_ml4re/1_ModelReduction.pdf %})
-
-Feb 10: Margot Yuan 
-
-Feb 17: Zhejiang Sun 
-
-Feb 24: 
-
-
-
+Each meeting, one of the participants will give a talk on a paper relevant to the subject of the RIT or on his/her research if it is related to ML or rare events. -->
 
