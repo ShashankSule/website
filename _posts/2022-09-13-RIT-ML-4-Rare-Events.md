@@ -3,8 +3,8 @@ layout: post
 title:  "Spring 2023 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: Friday, February 10th, 2:00 pm, Kirwan Hall 1310. 
-         Speaker: Margot Yuan (UMD)"
+excerpt: "Next meeting: Friday, March 10th, 2:00 pm, Kirwan Hall 1310. 
+         Speaker: JJ Guan (UMD)"
 ---
 
 In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. In this RIT we will explore methods for the study of rare events based on machine learning.
