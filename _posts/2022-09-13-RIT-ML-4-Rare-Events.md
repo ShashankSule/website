@@ -25,6 +25,11 @@ Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for
 
 **Feb 17**: Zezheng Song, *Finite expression method for solving PDEs. Application to the committor problem*  
 
+**March 10**: JJ Guan, _Physics-Informed Neural Networks for Numerical Solutions of PDEs._
+
+**March 31**: Deep Ray, _Bayesian inference using Generative Adversarial Networks._
+
+
 ## Suggestions for papers:
 
 You can give a talk on your research or on any paper of your choice if it is related to machine learning or rare events. Below are some suggested papers on model reduction and autoencoders: 
