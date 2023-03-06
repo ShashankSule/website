@@ -30,6 +30,9 @@ Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for
 **March 31**: Deep Ray, _Bayesian inference using Generative Adversarial Networks._
 
 **April 7**: Rachel Lee, _A Bayesian Framework for Persistent Homology._ 
+
+**April 14**: Frank McBride, _Reservoir Computing_ 
+
 ## Suggestions for papers:
 
 You can give a talk on your research or on any paper of your choice if it is related to machine learning or rare events. Below are some suggested papers on model reduction and autoencoders: 
