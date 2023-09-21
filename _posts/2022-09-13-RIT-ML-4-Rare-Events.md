@@ -1,39 +1,27 @@
 ---
 layout: post
-title:  "Spring 2023 RIT: Machine Learning For Rare Events"
+title:  "Fall 2023 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: Friday, May 5th, 2:00 pm, Kirwan Hall 1310. 
-         Speaker: Sam Potter (NYU)"
+excerpt: "Next meeting: September 25th, 3:00 pm, Kirwan Hall 1310. 
+         Speaker: Aditi Sen"
 ---
 
-In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. In this RIT we will explore methods for the study of rare events based on machine learning.
+In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare event in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, nonlinear oscillators etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. In this RIT we will explore methods for the study of rare events based on machine learning.
 
-Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Margot Yuan](mailto:jyuan@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
+Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Margot Yuan](mailto:jyuan@umd.edu), [Perrin Ruth](mailto:pruth@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
 
 ## Registration 
 
-Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk. 
+Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk.  
 
 ## Schedule 
 
-**Time/Location**: Fridays at 2:00 pm, Kirwan Hall 1310. 
+**Time/Location**: Mondays at 3:00 pm, Kirwan Hall 1310. 
 
-**Feb 03**: Maria Cameron, *Model reduction and machine learning for quantifying rare events in stochastic systems (Organizational meeting)*. [Slides]({{ site.baseurl }}{% link /assets/files/rit_ml4re/1_ModelReduction.pdf %})
+**Sep 18**: Maria Cameron, *Complex dynamics of nonlinear oscillators (organizational meeeting)*. 
 
-**Feb 10**: Margot Yuan, *Causal disentanglement using causal graph regulation: autoencoders for learning image descriptions in simple terms* 
-
-**Feb 17**: Zezheng Song, *Finite expression method for solving PDEs. Application to the committor problem*  
-
-**March 10**: JJ Guan, _Physics-Informed Neural Networks for Numerical Solutions of PDEs._
-
-**March 31**: Deep Ray, _Bayesian inference using Generative Adversarial Networks._
-
-**April 7**: Rachel Lee, _A Bayesian Framework for Persistent Homology._ 
-
-**April 14**: Frank McBride, _Echo State Networks for Predicting Chaotic Time Series_ 
-
-**May 5**: Sam Potter, _Recent progress on the butterfly factorization_ 
+**Sep 25**: Aditi Sen, *Logistic regression for Massive Data with Rare Events* 
 
 ## Suggestions for papers:
 
