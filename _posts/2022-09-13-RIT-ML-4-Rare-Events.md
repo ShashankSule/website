@@ -7,7 +7,7 @@ excerpt: "Next meeting: September 25th, 3:00 pm, Kirwan Hall 1310.
          Speaker: Aditi Sen"
 ---
 
-In recent years, machine learning techniques have penetrated a tremendous variety of scientific fields. In particular, they have given rise to data-driven methods for the study of rare events in complex physical systems such as conformational changes in biomolecules, rearrangements of clusters of interacting particles, nonlinear oscillators etc. These methods truly opened new horizons by enabling us to address problems that used to be intractable due to the curse of dimensionality. The goal of this RIT is to get familiar with and exchange ideas for theoretical and numerical approaches for quantifying stochastic dynamics in complex physical and chemical systems.
+The goal of this RIT is to get familiar with and exchange ideas for theoretical and numerical approaches for quantifying stochastic dynamics in complex physical and chemical systems.
 
 Organizers: [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/), [Margot Yuan](mailto:jyuan@umd.edu), [Perrin Ruth](mailto:pruth@umd.edu), [Shashank Sule]({{ site.baseurl }}{% link index.md %})
 
