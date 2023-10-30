@@ -3,8 +3,8 @@ layout: post
 title:  "Fall 2023 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: October 9th, 3:00 pm, Kirwan Hall 1310. 
-         Speaker: Margot Yuan"
+excerpt: "Next meeting: October 30th, 3:00 pm, Kirwan Hall 1310. 
+         Speaker: Tong Qi"
 ---
 
 The goal of this RIT is to get familiar with and exchange ideas for theoretical and numerical approaches for quantifying stochastic dynamics in complex physical and chemical systems.
@@ -25,13 +25,13 @@ Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for
 
 **October 9th**: Margot Yuan, *C-Disentanglement: Discovering Causally-Independent Generative Factors under an Inductive Bias of Confounder.*
 
-**October 30th**: Tong Qi
+**October 30th**: Tong Qi. *Introduction to Graph Embedding and clique detection.* 
 
-**Nov 13**: Perrin Ruth.
+**Nov 20**: Perrin Ruth.
 
-**Nov 27**: Shashank Sule.
+**Nov 27**: Meenakshi Krishnan.
 
-**Dec 4**: Meenakshi Krishnan.
+**Dec 4**: Shashank Sule.
 
 ## Suggestions for papers:
 
