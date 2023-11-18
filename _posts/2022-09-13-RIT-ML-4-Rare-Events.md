@@ -27,11 +27,11 @@ Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for
 
 **October 30th**: Tong Qi. *Introduction to Graph Embedding and clique detection.* 
 
-**Nov 20**: Perrin Ruth.
-
 **Nov 27**: Meenakshi Krishnan.
 
-**Dec 4**: Shashank Sule.
+**Dec 4**: Perrin Ruth.
+
+**Dec 11**: Shashank Sule.
 
 ## Suggestions for papers:
 
