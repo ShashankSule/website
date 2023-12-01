@@ -3,8 +3,8 @@ layout: post
 title:  "Fall 2023 RIT: Machine Learning For Rare Events"
 comments: false
 permalink: /RIT/
-excerpt: "Next meeting: November 27th, 3:00 pm, Kirwan Hall 1310. 
-         Speaker: Perrin Ruth"
+excerpt: "Next meeting: December 4th, 3:00 pm, Kirwan Hall 1310. 
+         Speaker: Meenakshi Krishnan"
 ---
 
 The goal of this RIT is to get familiar with and exchange ideas for theoretical and numerical approaches for quantifying stochastic dynamics in complex physical and chemical systems.
@@ -27,9 +27,9 @@ Optional. 1 credit. Course number: AMSC689, Section 0802. See Jessica Sadler for
 
 **October 30th**: Tong Qi. *Introduction to Graph Embedding and clique detection.* 
 
-**Nov 27**: Perrin Ruth.
+**Nov 27**: Perrin Ruth. *Random graph theory for predicting large molecules in hydrocarbon pyrolysis*
 
-**Dec 4**: Meenakshi Krishnan.
+**Dec 4**: Meenakshi Krishnan. *Neural Network Based Time-Stepping Algorithms for PDEs*
 
 **Dec 11**: Shashank Sule.
 
