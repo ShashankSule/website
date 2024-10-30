@@ -5,7 +5,7 @@ permalink:
 ---
 <img src="https://www.terpconnect.umd.edu/~ssule25/assets/images/profile1.jpeg" width= "300" align="right" style="border-radius:50%"/> 
 
-I'm Shashank and I am a fourth-year PhD student in the [Applied Mathematics, Applied Statistics and Scientific Computation program](https://www.amsc.umd.edu/) at the University of Maryland, College Park. I am jointly advised by [Dr. Wojciech Czaja](https://www.math.umd.edu/~czaja/) and [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/). I am interested in applied harmonic analysis, machine learning, and spectral graph theory with applications to rare event modeling in molecular dynamics and inverse problems in MRI. Before Maryland, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
+I'm Shashank and I am a fifth-year PhD student in the [Applied Mathematics, Applied Statistics and Scientific Computation program](https://www.amsc.umd.edu/) at the University of Maryland, College Park. I am jointly advised by [Dr. Wojciech Czaja](https://www.math.umd.edu/~czaja/) and [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/). I am interested in applied harmonic analysis, machine learning, and spectral graph theory with applications to rare event modeling in molecular dynamics and signal processing. Before Maryland, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
 
 Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV_ShashankSule.pdf %}) or [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. 
 
