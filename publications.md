@@ -2,11 +2,13 @@
 layout: default
 permalink: /research/
 ---
-- [Qingxuan Jiang](https://scholar.google.com/citations?user=D7TlJL4AAAAJ&hl=en), Tian Lan, [Kasso Okoudjou](https://math.tufts.edu/people/facultyOkoudjou.htm), [Robert Strichartz](https://math.cornell.edu/robert-s-strichartz), Shashank Sule, and Sreeram Venkat. [Sobolev Orthogonal Polynomials on the Sierpinski Gasket](https://link.springer.com/article/10.1007/s00041-021-09819-0#citeas), J Fourier Anal Appl 27, 38 (2021). [[arXiv](https://arxiv.org/abs/2010.00107)] [[code](https://github.com/s769/op_on_sg)]
-- Emergence of the SVD as an interpretable factorization in deep learning for inverse problems. Shashank Sule, Richard G. Spencer, Wojciech Czaja [[arXiv](https://arxiv.org/pdf/2301.07820.pdf)] (Submitted)
-- Error analysis of target measure diffusion maps and applications to transition path theory. [Shashank Sule](https://shashanksule.github.io/website/research/), [Luke Evans](https://www.math.umd.edu/~evansal/), [Maria Cameron](https://www.math.umd.edu/~mariakc) [[arXiv](https://arxiv.org/abs/2312.14418)] (Submitted)
+## Papers
+
+- Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning (2025). Mirage Modi, [Shashank Sule](https://shashanksule.github.io/website/research/), Jonathan Palumbo, Michael Rozowski, Mustapha Bouhrara, Wojciech Czaja, Richard G. Spencer. [[arXiv](https://arxiv.org/abs/2501.18074)]
 - Neural network-based speech reconstruction from undersampled STFT magnitude data. Wojciech Czaja, Matthias Wellershoff, [Shashank Sule](https://shashanksule.github.io/website/research/), Canran Ji. In the 32nd European Signal Processing Conference 2024.
-- Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning. Mirage Modi, [Shashank Sule](https://shashanksule.github.io/website/research/), Jonathan Palumbo, Michael Rozowski, Mustapha Bouhrara, Wojciech Czaja, Richard G. Spencer
+- On the limits of neural network explainability via descrambling (2024). Shashank Sule, Richard G. Spencer, Wojciech Czaja [[arXiv](https://arxiv.org/pdf/2301.07820.pdf)] (Submitted, in review).
+- Sharp error estimates for target measure diffusion maps and applications to the committor problem (2023). [Shashank Sule](https://shashanksule.github.io/website/research/), [Luke Evans](https://www.math.umd.edu/~evansal/), [Maria Cameron](https://www.math.umd.edu/~mariakc) [[arXiv](https://arxiv.org/abs/2312.14418)] (Submitted, in review).
+- [Sobolev Orthogonal Polynomials on the Sierpinski Gasket](https://link.springer.com/article/10.1007/s00041-021-09819-0#citeas). [Qingxuan Jiang](https://scholar.google.com/citations?user=D7TlJL4AAAAJ&hl=en), Tian Lan, [Kasso Okoudjou](https://math.tufts.edu/people/facultyOkoudjou.htm), [Robert Strichartz](https://math.cornell.edu/robert-s-strichartz), Shashank Sule, and Sreeram Venkat. , J Fourier Anal Appl 27, 38 (2021). [[arXiv](https://arxiv.org/abs/2010.00107)] [[code](https://github.com/s769/op_on_sg)]
   
 ## Selected Talks 
 
