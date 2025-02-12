@@ -4,6 +4,7 @@ permalink: /research/
 ---
 ## Papers
 
+- Neumann eigenmaps for landmark embedding (2025).[Shashank Sule](https://shashanksule.github.io/website/research/), Wojciech Czaja. [[arXiv](https://arxiv.org/abs/2502.06689)]
 - Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning (2025). Mirage Modi, [Shashank Sule](https://shashanksule.github.io/website/research/), Jonathan Palumbo, Michael Rozowski, Mustapha Bouhrara, Wojciech Czaja, Richard G. Spencer. [[arXiv](https://arxiv.org/abs/2501.18074)]
 - Neural network-based speech reconstruction from undersampled STFT magnitude data. Wojciech Czaja, Matthias Wellershoff, [Shashank Sule](https://shashanksule.github.io/website/research/), Canran Ji. In the 32nd European Signal Processing Conference 2024.
 - On the limits of neural network explainability via descrambling (2024). Shashank Sule, Richard G. Spencer, Wojciech Czaja [[arXiv](https://arxiv.org/pdf/2301.07820.pdf)] (Submitted, in review).
