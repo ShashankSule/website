@@ -6,7 +6,14 @@ permalink: /projects/
 
 [![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule)](https://github.com/anuraghazra/github-readme-stats)
 
-1. [Code](https://github.com/ShashankSule/exploring_butane) for tools to fiddle with MD simulations and estimate transition rates for the butane molecule. Functionality with openMMtorch and diffusion maps included!
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+<!-- 1. [Code](https://github.com/ShashankSule/exploring_butane) for tools to fiddle with MD simulations and estimate transition rates for the butane molecule. Functionality with openMMtorch and diffusion maps included!
   
 2. [Code](https://github.com/https://github.com/wellersm/Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data) for when we trained a neural network to recover speech from a small number of STFT measurements.
 
@@ -34,13 +41,11 @@ permalink: /projects/
 
 14. [The Transfer Paradox, neatly explained]({{ site.baseurl }}{% link /assets/files/projects/What_do_multiple_equilibria_mean_.pdf %}).
 
-<!-- 13. [Code](https://github.com/ShashankSule/CAG_Project) for my 2018 SURF project on Strongly Stable Ideals with Prof. Sosa. It's all mostly in Mathematica with a dash of Macaulay2. 
+ 13. [Code](https://github.com/ShashankSule/CAG_Project) for my 2018 SURF project on Strongly Stable Ideals with Prof. Sosa. It's all mostly in Mathematica with a dash of Macaulay2. 
 
 14. A [crash course]({{ site.baseurl }}{% link /assets/files/projects/Linear_Algebra.pdf %}) on Linear Algebra.
 
-15. A [crash course]({{ site.baseurl }}{% link /assets/files/projects/Multivariable_Calculus.pdf %}) on Multivariable Calculus (big yikes!).-->
-
-<!-- * SIR Model
+15. A [crash course]({{ site.baseurl }}{% link /assets/files/projects/Multivariable_Calculus.pdf %}) on Multivariable Calculus (big yikes!) * SIR Model
 
 * Solving an ODE using NN's
 
