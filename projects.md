@@ -4,13 +4,26 @@ title:
 permalink: /projects/
 ---
 
+Usually my projects invovle a heavy dose of computational work. Find my contributions on my Github: 
+
 [![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+Check out some repositories I've authored/contributed to. Most of these implement projects published as papers. 
+
+<a href="https://github.com/ShashankSule/ILR-for-MWF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ILR-for-MWF" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ShashankSule/CV_learning_butane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=CV_learning_butane" />
+</a>
+<a href="https://github.com/wellersm/Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellersm&repo=Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data" />
+</a>
+<a href="https://github.com/ShashankSule/ESVD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ESVD" />
+</a>
+<a href="https://github.com/ShashankSule/info_theoretic_phylo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=info_theoretic_phylo" />
 </a>
 
 <!-- 1. [Code](https://github.com/ShashankSule/exploring_butane) for tools to fiddle with MD simulations and estimate transition rates for the butane molecule. Functionality with openMMtorch and diffusion maps included!
