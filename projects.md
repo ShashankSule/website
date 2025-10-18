@@ -3,6 +3,9 @@ layout: default
 title: 
 permalink: /projects/
 ---
+
+[![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule)](https://github.com/anuraghazra/github-readme-stats)
+
 1. [Code](https://github.com/ShashankSule/exploring_butane) for tools to fiddle with MD simulations and estimate transition rates for the butane molecule. Functionality with openMMtorch and diffusion maps included!
   
 2. [Code](https://github.com/https://github.com/wellersm/Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data) for when we trained a neural network to recover speech from a small number of STFT measurements.
