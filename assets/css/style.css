@@ -5,6 +5,7 @@ body	{
 	/* font-family: 'Computer Modern Serif', sans-serif; */
 	font-family: 'Cutive Mono', serif;
 	font-size:75%;
+	font-weight: 600
 	line-height:200%;
 
 }
@@ -20,7 +21,7 @@ a:hover	{
 
 
 #main {
-	width: 50%;
+	width: 80%;
 	margin: 0 auto;
 }
 
