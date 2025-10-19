@@ -6,24 +6,24 @@ permalink: /projects/
 
 Usually my projects invovle a heavy dose of computational work. Find my contributions on my Github: 
 
-[![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 Check out some repositories I've authored/contributed to. Most of these implement projects published as papers. 
 
 <a href="https://github.com/ShashankSule/ILR-for-MWF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ILR-for-MWF&langs_count=10&theme=flag-india" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ILR-for-MWF&langs_count=10&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/ShashankSule/CV_learning_butane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=CV_learning_butane&langs_count=10&theme=flag-india" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=CV_learning_butane&langs_count=10&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/wellersm/Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellersm&repo=Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data&langs_count=10&theme=flag-india" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellersm&repo=Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data&langs_count=10&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/ShashankSule/ESVD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ESVD&langs_count=10&theme=flag-india" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ESVD&langs_count=10&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/ShashankSule/info_theoretic_phylo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=info_theoretic_phylo&langs_count=10&theme=flag-india" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=info_theoretic_phylo&langs_count=10&theme=ambient_gradient" />
 </a>
 
 <!-- 1. [Code](https://github.com/ShashankSule/exploring_butane) for tools to fiddle with MD simulations and estimate transition rates for the butane molecule. Functionality with openMMtorch and diffusion maps included!
