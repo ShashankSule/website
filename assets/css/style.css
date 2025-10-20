@@ -5,7 +5,7 @@ body	{
 	/* font-family: 'Computer Modern Serif', sans-serif; */
 	font-family: 'Cutive Mono', serif;
 	/* font-family: 'Ubuntu', sans-serif; */
-	font-size:75%;
+	font-size:80%;
 	font-weight: 500
 	line-height:200%;
 
@@ -22,7 +22,7 @@ a:hover	{
 
 
 #main {
-	width: 70%;
+	width: 65%;
 	margin: 0 auto;
 }
 
