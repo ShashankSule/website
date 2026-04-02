@@ -11,7 +11,7 @@ disqus_username:
 # Build settings
 markdown: kramdown
 theme: minima
-
+google_analytics: G-TYEYN8408E
 
 permalink: /:year/:month/:day/:title/
 
