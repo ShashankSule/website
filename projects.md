@@ -6,7 +6,7 @@ permalink: /projects/
 
 Usually my projects invovle a heavy dose of computational work. Find my contributions on my Github: 
 
-[![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 Check out some repositories I've authored/contributed to. Most of these implement projects published as papers. 
 
