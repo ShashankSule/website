@@ -11,19 +11,19 @@ Usually my projects invovle a heavy dose of computational work. Find my contribu
 Check out some repositories I've authored/contributed to. Most of these implement projects published as papers. 
 
 <a href="https://github.com/ShashankSule/ILR-for-MWF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ILR-for-MWF&langs_count=10&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ILR-for-MWF&langs_count=10&theme=flag-india" />
 </a>
 <a href="https://github.com/ShashankSule/CV_learning_butane">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=CV_learning_butane&langs_count=10&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/wellersm/Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellersm&repo=Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data&langs_count=10&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellersm&repo=Neural-network-based-audio-reconstruction-from-undersampled-STFT-magnitude-data&langs_count=10&theme=swift" />
 </a>
 <a href="https://github.com/ShashankSule/ESVD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ESVD&langs_count=10&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=ESVD&langs_count=10&theme=holi" />
 </a>
 <a href="https://github.com/ShashankSule/info_theoretic_phylo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=info_theoretic_phylo&langs_count=10&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=info_theoretic_phylo&langs_count=10&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/ShashankSule/info_theoretic_phylo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erdos-Projects&repo=spring-2026-dc-311&langs_count=10&theme=github_dark_dimmed" />
