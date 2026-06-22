@@ -25,6 +25,9 @@ Check out some repositories I've authored/contributed to. Most of these implemen
 <a href="https://github.com/ShashankSule/info_theoretic_phylo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashankSule&repo=info_theoretic_phylo&langs_count=10&theme=ambient_gradient" />
 </a>
+<a href="https://github.com/ShashankSule/info_theoretic_phylo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erdos-Projects&repo=spring-2026-dc-311&langs_count=10&theme=github_dark_dimmed" />
+</a>
 
 <!-- 1. [Code](https://github.com/ShashankSule/exploring_butane) for tools to fiddle with MD simulations and estimate transition rates for the butane molecule. Functionality with openMMtorch and diffusion maps included!
   
