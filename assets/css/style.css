@@ -2,11 +2,11 @@ body	{
 	margin-top: 0px;
 	padding:0;
 	/* font-family: Arial, Helvetica, sans-serif; */
-	/* font-family: 'Computer Modern Serif', sans-serif; */
+	font-family: 'Computer Modern Serif', sans-serif;
 	/* font-family: 'Cutive Mono', serif; */
-	font-family: 'Ubuntu', sans-serif;
+	/* font-family: 'Ubuntu', sans-serif; */
 	font-size:80%;
-	font-weight: 500
+	font-weight: 700
 	line-height:200%;
 
 }
@@ -79,21 +79,22 @@ a:hover	{
 
 #content-left a:link, #content-left a:visited	{
 	text-decoration: none;
-	color:#E03A3E;
+	color:#003B5C;
 }
 
 #content-left a:hover	{
 	text-decoration: underline;
-	color: #FFD520; 
+	color: #FFB81C; 
 }
 
 #post-short a:link, #post-short a:visited	{
 	text-decoration: none;
-	color:#E03A3E
+	color:#003B5C
 }
 
 #post-short a:hover	{
 	text-decoration: underline;
+	color: #FFB81C;
 }
 
 #post-short h3, #post h2	{
