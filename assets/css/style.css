@@ -6,7 +6,7 @@ body	{
 	/* font-family: 'Cutive Mono', serif; */
 	/* font-family: 'Ubuntu', sans-serif; */
 	font-size:70%;
-	font-weight: 600
+	font-weight: 1200
 	line-height:200%;
 
 }
@@ -79,7 +79,7 @@ a:hover	{
 
 #content-left a:link, #content-left a:visited	{
 	text-decoration: none;
-	color:#8BB8E8;
+	color: #2774AE;
 }
 
 #content-left a:hover	{
@@ -89,7 +89,7 @@ a:hover	{
 
 #post-short a:link, #post-short a:visited	{
 	text-decoration: none;
-	color:#8BB8E8
+	color: #2774AE
 }
 
 #post-short a:hover	{
@@ -120,8 +120,13 @@ a:hover	{
 
 #categories a:hover {
 	text-decoration: underline;
+	color: #FFB81C;
 }
 
+#nav a:hover{ 
+	text-decoration: underline; 
+	color: #FFB81C;
+}
 .current {
 	font-weight: bold;
 }
