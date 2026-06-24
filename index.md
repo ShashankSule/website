@@ -3,7 +3,7 @@ layout: default
 title: Shashank Sule
 permalink: 
 ---
-<img src="https://github.com/ShashankSule/website/blob/gh-pages/assets/images/profile1.jpeg" width= "300" align="right" style="border-radius:50%"/> 
+<img src="assets/images/profile1.jpeg" width="300" align="right" style="border-radius:50%" alt="Shashank Sule"/>
 
 I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles (UCLA)](https://ww3.math.ucla.edu). I work on the mathematics of data science and its applications to the sciences and the regulation of artificial intelligence. I recently graduated with a PhD in applied math at the University of Maryland, College Park, where I was advised by [Dr. Wojciech Czaja](https://www.math.umd.edu/~czaja/) and [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/). Before that, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
 
