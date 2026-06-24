@@ -3,17 +3,18 @@ layout: default
 title: Shashank Sule
 permalink: 
 ---
-<img src="https://www.terpconnect.umd.edu/~ssule25/assets/images/profile1.jpeg" width= "300" align="right" style="border-radius:50%"/> 
+<img src="https://github.com/ShashankSule/website/blob/gh-pages/assets/images/profile1.jpeg" width= "300" align="right" style="border-radius:50%"/> 
 
-I'm Shashank and I am a sixth-year PhD student in the [Applied Mathematics, Applied Statistics and Scientific Computation program](https://www.amsc.umd.edu/) at the University of Maryland, College Park. I am jointly advised by [Dr. Wojciech Czaja](https://www.math.umd.edu/~czaja/) and [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/). I use tools from applied analysis to design and analyse algorithms for manifold learning, deep learning, and explainability in molecular dynamics and medical imaging applications. Recently I've been interested in equivariant graph neural networks, neural collapse, and bilevel optimization. Before Maryland, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
+I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles (UCLA)](https://ww3.math.ucla.edu). I work on the mathematics of data science and its applications to the sciences and the regulation of artificial intelligence. I recently graduated with a PhD in applied math at the University of Maryland, College Park, where I was advised by [Dr. Wojciech Czaja](https://www.math.umd.edu/~czaja/) and [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/). Before that, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
 
 Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV.pdf %}), find me on [LinkedIn](https://www.linkedin.com/in/shashanksule/) [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. 
 
 ## Selected publications 
 
-1. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). In review at SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
+1. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). Accepted to SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
 2. Sharp estimates for target measure diffusion maps and applications to the committor problem (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Luke Evans, K. [Maria Cameron](https://www.math.umd.edu/~mariakc). Applied and Computational Harmonic Analysis, Volume 79, 101803, ISSN 1063-5203. 
 3. On the limits of neural network explainability via descrambling (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Richard G. Spencer, Wojciech Czaja. Applied and Computational Harmonic Analysis, Volume 79, 2025, 101793, ISSN 1063-5203.
+4. Boltz-Jump: Accelerated Sampling of the Conformational Landscape of Biomolecular Structure Prediction Models. Ameya Daigavane, [Shashank Sule](https://shashanksule.github.io/website/research), Saeed Saremi, Andrew Martin Watkins, Joseph Kleinhenz, Tess Smidt, Bodhi P Vani. The 2026 Workshop on Generative and Agentic AI for Biology at ICML.
 
 ## Recent posts
 
