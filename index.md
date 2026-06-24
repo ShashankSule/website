@@ -9,6 +9,11 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
 
 Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV.pdf %}), find me on [LinkedIn](https://www.linkedin.com/in/shashanksule/) [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. 
 
+<a href="{{ site.baseurl }}{% link /assets/files/CV.pdf %}"><i class="fa-solid fa-file-pdf"></i> CV</a> &bull; 
+<a href="https://github.com/ShashankSule"><i class="fa-brands fa-github"></i> GitHub</a> &bull; 
+<a href="https://www.linkedin.com/in/shashanksule/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> &bull; 
+<a href="mailto:ssule25@umd.edu"><i class="fa-solid fa-envelope"></i> Email</a> (ssule25[at]umd[dot]edu)
+
 ## Selected publications 
 
 1. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). Accepted to SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
