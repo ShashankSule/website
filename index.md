@@ -7,7 +7,9 @@ permalink:
 
 I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles (UCLA)](https://ww3.math.ucla.edu). I work on the mathematics of data science and its applications to the sciences and the regulation of artificial intelligence. I recently graduated with a PhD in applied math at the University of Maryland, College Park, where I was advised by [Dr. Wojciech Czaja](https://www.math.umd.edu/~czaja/) and [Dr. Maria Cameron](https://www.math.umd.edu/~mariakc/). Before that, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
 
-Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV.pdf %}), find me on [LinkedIn](https://www.linkedin.com/in/shashanksule/) [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. 
+<!-- Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV.pdf %}), find me on [LinkedIn](https://www.linkedin.com/in/shashanksule/) [email me](mailto:ssule25@umd.edu) at **ssule25[at]umd[dot]edu**. -->
+
+
 
 <a href="{{ site.baseurl }}{% link /assets/files/CV.pdf %}"><i class="fa-solid fa-file-pdf"></i> CV</a> &bull; 
 <a href="https://github.com/ShashankSule"><i class="fa-brands fa-github"></i> GitHub</a> &bull; 
@@ -23,20 +25,27 @@ Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV.pdf %}), find me 
 
 ## Recent posts
 
-{% for post in site.posts limit:2 %}
+{% assign post_count = 0 %}
+{% for post in site.posts %}
+  {% if post.categories contains 'research' %}
+    {% continue %}
+  {% endif %}
+
+  {% if post_count == 2 %}
+    {% break %}
+  {% endif %}
+
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
     </a>
     <i>posted on {{ post.date | date: "%-d %b %Y" }}</i>
     <p>
-      {% if post.excerpt %}
-        {{ post.excerpt }}
-      {% else %}
-        {{ post.content }}
-      {% endif %}
+      {{ post.excerpt }}
     </p>
   </div>
+
+  {% assign post_count = post_count | plus: 1 %}
 {% endfor %}
 
 <!-- Have a great summer (or winter if you're reading this in the Southern Hemisphere)!   -->
