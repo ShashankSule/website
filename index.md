@@ -36,6 +36,7 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
 <span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
 <br>
 <span style="font-size: 0.9em; font-weight: bold;">
+{% if post.journal %}<a href="{{ post.journal }}">journal</a> /{% endif %}
 {% if post.arxiv %}<a href="{{ post.arxiv }}">arXiv</a> /{% endif %}
 {% if post.code %}<a href="{{ post.code }}">code</a> /{% endif %}
 {% if post.website %}<a href="{{ post.website }}">website</a> /{% endif %}
