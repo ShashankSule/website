@@ -18,10 +18,50 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
 
 ## Selected publications 
 
-1. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). Accepted to SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
+<table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto;">
+  {% for post in site.posts %}
+    {% if post.categories contains 'research' and post.selected == true %}
+    <tr>
+      <td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
+        {% if post.image %}
+          <img src="{{ site.baseurl }}{{ post.image }}" alt="project image" style="width:100%; height:auto; max-width:100%; border-radius: 4px;" />
+        {% else %}
+          <img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="project image" style="width:100%; height:auto; max-width:100%; opacity: 0.3;" />
+        {% endif %}
+      </td>
+      
+      <td style="padding:2.5%; width:75%; vertical-align:middle;">
+        <h3 style="margin-top:0px; margin-bottom:5px;">{{ post.title }}</h3>
+        <span style="font-size: 0.95em; color: #555;">{{ post.authors }}</span>
+        <br>
+        <span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
+        <br>
+        
+        <span style="font-size: 0.9em; font-weight: bold;">
+          {% if post.arxiv %}
+            <a href="{{ post.arxiv }}">arXiv</a> /
+          {% endif %}
+          {% if post.code %}
+            <a href="{{ post.code }}">code</a> /
+          {% endif %}
+          {% if post.website %}
+            <a href="{{ post.website }}">website</a> /
+          {% endif %}
+        </span>
+        
+        <p style="margin-top: 10px; font-size: 0.92em; line-height: 1.4;">
+          {{ post.excerpt }}
+        </p>
+      </td>
+    </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+
+<!-- 1. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). Accepted to SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
 2. Sharp estimates for target measure diffusion maps and applications to the committor problem (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Luke Evans, K. [Maria Cameron](https://www.math.umd.edu/~mariakc). Applied and Computational Harmonic Analysis, Volume 79, 101803, ISSN 1063-5203. 
 3. On the limits of neural network explainability via descrambling (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Richard G. Spencer, Wojciech Czaja. Applied and Computational Harmonic Analysis, Volume 79, 2025, 101793, ISSN 1063-5203.
-4. Boltz-Jump: Accelerated Sampling of the Conformational Landscape of Biomolecular Structure Prediction Models. Ameya Daigavane, [Shashank Sule](https://shashanksule.github.io/website/research), Saeed Saremi, Andrew Martin Watkins, Joseph Kleinhenz, Tess Smidt, Bodhi P Vani. The 2026 Workshop on Generative and Agentic AI for Biology at ICML.
+4. Boltz-Jump: Accelerated Sampling of the Conformational Landscape of Biomolecular Structure Prediction Models. Ameya Daigavane, [Shashank Sule](https://shashanksule.github.io/website/research), Saeed Saremi, Andrew Martin Watkins, Joseph Kleinhenz, Tess Smidt, Bodhi P Vani. The 2026 Workshop on Generative and Agentic AI for Biology at ICML. -->
 
 ## Recent posts
 
