@@ -22,7 +22,7 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
 {% for post in site.posts %}
 {% if post.categories contains 'research' and post.selected == true %}
 <tr>
-<td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
+<td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px";>
 {% if post.image %}
 <img src="{{ site.baseurl }}{{ post.image }}" alt="project image" style="width:100%; height:auto; max-width:100%; border-radius: 4px;" />
 {% else %}

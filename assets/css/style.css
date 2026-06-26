@@ -5,9 +5,9 @@ body	{
 	/* font-family: 'Computer Modern Serif', sans-serif; */
 	/* font-family: 'Cutive Mono', serif; */
 	font-family: 'Ubuntu', sans-serif;
-	font-size:70%;
-	font-weight: 1200
-	line-height:400%;
+	font-size:80%;
+	font-weight: 400;
+	line-height:200%;
 
 }
 
@@ -35,7 +35,7 @@ a:hover	{
 	margin-bottom:5px;
 	padding-bottom:5px;
 	line-height: 150%;
-	border-bottom: 1px solid #000;
+	border-bottom: 4px solid #000;
 	
 }
 
