@@ -58,11 +58,6 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
   {% endfor %}
 </table>
 
-<!-- 1. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). Accepted to SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
-2. Sharp estimates for target measure diffusion maps and applications to the committor problem (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Luke Evans, K. [Maria Cameron](https://www.math.umd.edu/~mariakc). Applied and Computational Harmonic Analysis, Volume 79, 101803, ISSN 1063-5203. 
-3. On the limits of neural network explainability via descrambling (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Richard G. Spencer, Wojciech Czaja. Applied and Computational Harmonic Analysis, Volume 79, 2025, 101793, ISSN 1063-5203.
-4. Boltz-Jump: Accelerated Sampling of the Conformational Landscape of Biomolecular Structure Prediction Models. Ameya Daigavane, [Shashank Sule](https://shashanksule.github.io/website/research), Saeed Saremi, Andrew Martin Watkins, Joseph Kleinhenz, Tess Smidt, Bodhi P Vani. The 2026 Workshop on Generative and Agentic AI for Biology at ICML. -->
-
 ## Recent posts
 
 {% assign post_count = 0 %}
