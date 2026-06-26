@@ -22,14 +22,14 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
 {% for post in site.posts %}
 {% if post.categories contains 'research' and post.selected == true %}
 <tr>
-<td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
+<td style="padding:2.5%; width:40%; vertical-align:middle; min-width:120px;">
 {% if post.image %}
 <img src="{{ site.baseurl }}{{ post.image }}" alt="project image" style="width:100%; height:auto; max-width:100%; border-radius: 4px;" />
 {% else %}
 <img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="project image" style="width:100%; height:auto; max-width:100%; opacity: 0.3;" />
 {% endif %}
 </td>
-<td style="padding:2.5%; width:75%; vertical-align:middle;">
+<td style="padding:2.5%; width:60%; vertical-align:middle;">
 <h3 style="margin-top:0px; margin-bottom:5px;">{{ post.title }}</h3>
 <span style="font-size: 0.95em; color: #555;">{{ post.authors }}</span>
 <br>
