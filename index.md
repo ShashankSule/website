@@ -19,43 +19,34 @@ I am a Hendrick Mathematics Fellow at the [University of California, Los Angeles
 ## Selected publications 
 
 <table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto;">
-  {% for post in site.posts %}
-    {% if post.categories contains 'research' and post.selected == true %}
-    <tr>
-      <td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
-        {% if post.image %}
-          <img src="{{ site.baseurl }}{{ post.image }}" alt="project image" style="width:100%; height:auto; max-width:100%; border-radius: 4px;" />
-        {% else %}
-          <img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="project image" style="width:100%; height:auto; max-width:100%; opacity: 0.3;" />
-        {% endif %}
-      </td>
-      
-      <td style="padding:2.5%; width:75%; vertical-align:middle;">
-        <h3 style="margin-top:0px; margin-bottom:5px;">{{ post.title }}</h3>
-        <span style="font-size: 0.95em; color: #555;">{{ post.authors }}</span>
-        <br>
-        <span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
-        <br>
-        
-        <span style="font-size: 0.9em; font-weight: bold;">
-          {% if post.arxiv %}
-            <a href="{{ post.arxiv }}">arXiv</a> /
-          {% endif %}
-          {% if post.code %}
-            <a href="{{ post.code }}">code</a> /
-          {% endif %}
-          {% if post.website %}
-            <a href="{{ post.website }}">website</a> /
-          {% endif %}
-        </span>
-        
-        <p style="margin-top: 10px; font-size: 0.92em; line-height: 1.4;">
-          {{ post.excerpt }}
-        </p>
-      </td>
-    </tr>
-    {% endif %}
-  {% endfor %}
+{% for post in site.posts %}
+{% if post.categories contains 'research' and post.selected == true %}
+<tr>
+<td style="padding:2.5%; width:25%; vertical-align:middle; min-width:120px;">
+{% if post.image %}
+<img src="{{ site.baseurl }}{{ post.image }}" alt="project image" style="width:100%; height:auto; max-width:100%; border-radius: 4px;" />
+{% else %}
+<img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="project image" style="width:100%; height:auto; max-width:100%; opacity: 0.3;" />
+{% endif %}
+</td>
+<td style="padding:2.5%; width:75%; vertical-align:middle;">
+<h3 style="margin-top:0px; margin-bottom:5px;">{{ post.title }}</h3>
+<span style="font-size: 0.95em; color: #555;">{{ post.authors }}</span>
+<br>
+<span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
+<br>
+<span style="font-size: 0.9em; font-weight: bold;">
+{% if post.arxiv %}<a href="{{ post.arxiv }}">arXiv</a> /{% endif %}
+{% if post.code %}<a href="{{ post.code }}">code</a> /{% endif %}
+{% if post.website %}<a href="{{ post.website }}">website</a> /{% endif %}
+</span>
+<p style="margin-top: 10px; font-size: 0.92em; line-height: 1.4;">
+{{ post.content | strip_html | truncatewords: 50 }}
+</p>
+</td>
+</tr>
+{% endif %}
+{% endfor %}
 </table>
 
 ## Recent posts
