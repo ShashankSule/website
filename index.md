@@ -3,7 +3,7 @@ layout: default
 title: Shashank Sule
 permalink: 
 ---
-<img src="assets/images/profile1.jpeg" width="300" align="right" style="border-radius:50%" alt="Shashank Sule"/>
+<img src="assets/images/profile5.jpeg" width="300" align="right" style="border-radius:50%" alt="Shashank Sule"/>
 
 I am a Hedrick Mathematics Fellow at the [University of California, Los Angeles (UCLA)](https://ww3.math.ucla.edu), advised by Profs. Hayden Schaeffer, Deanna Needell, and Mihai Cucuringu. I work on the mathematics of machine learning, using tools from applied analysis and probability for applications in AI for drug discovery, explainability, and manifold learning. I recently graduated with a PhD in applied math at the University of Maryland, College Park (see my dissertation [here](https://drum.lib.umd.edu/items/e6b914d8-a9ef-42bf-bf9e-71185dd83766)). Before that, I graduated from [Amherst College](https://www.amherst.edu) with a degree in mathematics. 
 
@@ -25,7 +25,7 @@ I am a Hedrick Mathematics Fellow at the [University of California, Los Angeles 
 {% if post.image %}
 <img src="{{ site.baseurl }}{{ post.image | replace: '/assets/images/papers/', '/assets/images/thumbs/' }}" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block;" />
 {% else %}
-<img src="{{ site.baseurl }}/assets/images/profile5.jpeg" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block; opacity: 0.3;" />
+<img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block; opacity: 0.3;" />
 {% endif %}
 </td>
 <td style="padding:12px 0; vertical-align:middle;">
