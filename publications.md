@@ -1,15 +1,37 @@
 ---
 layout: default
+title: Research
 permalink: /research/
 ---
 
-1. Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning (2026). Mirage Modi, [Shashank Sule](https://shashanksule.github.io/website/research/), Jonathan Palumbo, Michael Rozowski, Griffin S. Hampton, Mustapha Bouhrara, Wojciech Czaja, Richard G. Spencer. NMR in Biomedicine, 39, No. 6: e70276, [DOI](https://doi.org/10.1002/nbm.70276.). 
-2. Neural collapse in the orthoplex regime (2026). James Alcala, Rayna Andreeva, Vladimir A. Kobzar, Dustin G. Mixon, Sanghoon Na, [Shashank Sule](https://shashanksule.github.io/website/research), Yangxinyu Xie. [arXiv](https://arxiv.org/abs/2603.20587). 
-3. Learning collective variables that respect permutational symmetry (2025). Jiaxin Yuan, [Shashank Sule](https://shashanksule.github.io/website/research/), Yeuk Yim Lam, [Maria Cameron](https://www.math.umd.edu/~mariakc). J. Chem. Phys. 28 September 2025; 163 (12): 124101. 
-4. Learning collective variables that preserve transition rates (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Arnav Mehta,  [Maria Cameron](https://www.math.umd.edu/~mariakc). Accepted to SIAM Multiscale Modeling and Simulation. [arXiv](https://arxiv.org/abs/2506.01222).
-5. Sharp estimates for target measure diffusion maps and applications to the committor problem (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Luke Evans, K. [Maria Cameron](https://www.math.umd.edu/~mariakc). Applied and Computational Harmonic Analysis, Volume 79, 101803, ISSN 1063-5203. 
-6. On the limits of neural network explainability via descrambling (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Richard G. Spencer, Wojciech Czaja. Applied and Computational Harmonic Analysis, Volume 79, 2025, 101793, ISSN 1063-5203.
-7. Neumann eigenmaps for landmark embedding (2025). [Shashank Sule](https://shashanksule.github.io/website/research/), Wojciech Czaja. [[arXiv](https://arxiv.org/abs/2502.06689)]. In 15th International Conference on Sampling Theory and Applications (Oral Presentation). 
-8. Neural network-based speech reconstruction from undersampled STFT magnitude data. Wojciech Czaja, Matthias Wellershoff, [Shashank Sule](https://shashanksule.github.io/website/research/), Canran Ji. In the 32nd European Signal Processing Conference 2024.
-9. [Sobolev Orthogonal Polynomials on the Sierpinski Gasket](https://link.springer.com/article/10.1007/s00041-021-09819-0#citeas). [Qingxuan Jiang](https://scholar.google.com/citations?user=D7TlJL4AAAAJ&hl=en), Tian Lan, [Kasso Okoudjou](https://math.tufts.edu/people/facultyOkoudjou.htm), [Robert Strichartz](https://math.cornell.edu/robert-s-strichartz), [Shashank Sule](https://shashanksule.github.io/website/), and Sreeram Venkat. Journal of Fourier Analysis and Applications 27, 38 (2021). [[arXiv](https://arxiv.org/abs/2010.00107)] [[code](https://github.com/s769/op_on_sg)]
-
+<table style="width:100%; border:0px; border-spacing:0px; border-collapse:separate; margin-right:auto; margin-left:auto;">
+{% for post in site.posts %}
+{% if post.categories contains 'research' %}
+<tr>
+<td style="padding:12px 16px 12px 0; width:200px; vertical-align:middle;">
+{% if post.image %}
+<img src="{{ site.baseurl }}{{ post.image | replace: '/assets/images/papers/', '/assets/images/thumbs/' }}" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block;" />
+{% else %}
+<img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block; opacity: 0.3;" />
+{% endif %}
+</td>
+<td style="padding:12px 0; vertical-align:middle;">
+<h3 style="margin-top:0px; margin-bottom:5px;">{{ post.title }}</h3>
+<span style="font-size: 0.95em; color: #555;">{{ post.authors }}</span>
+<br>
+<span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
+<br>
+<span style="font-size: 0.9em; font-weight: bold;">
+{% if post.journal %}<a href="{{ post.journal }}">journal</a> /{% endif %}
+{% if post.arxiv %}<a href="{{ post.arxiv }}">arXiv</a> /{% endif %}
+{% if post.code %}<a href="{{ post.code }}">code</a> /{% endif %}
+{% if post.website %}<a href="{{ post.website }}">website</a> /{% endif %}
+</span>
+<p style="margin-top: 10px; font-size: 0.92em; line-height: 1.4;">
+{{ post.content | strip_html | truncatewords: 50 }}
+</p>
+</td>
+</tr>
+{% endif %}
+{% endfor %}
+</table>
