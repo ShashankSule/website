@@ -25,7 +25,7 @@ I am a Hedrick Mathematics Fellow at the [University of California, Los Angeles 
 {% if post.image %}
 <img src="{{ site.baseurl }}{{ post.image | replace: '/assets/images/papers/', '/assets/images/thumbs/' }}" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block;" />
 {% else %}
-<img src="{{ site.baseurl }}/assets/images/profile1.jpeg" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block; opacity: 0.3;" />
+<img src="{{ site.baseurl }}/assets/images/profile5.jpeg" alt="{{ post.title }}" style="width:auto; height:auto; max-width:200px; max-height:200px; display:block; opacity: 0.3;" />
 {% endif %}
 </td>
 <td style="padding:12px 0; vertical-align:middle;">
