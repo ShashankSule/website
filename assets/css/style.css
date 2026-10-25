@@ -5,9 +5,9 @@ body	{
 	/* font-family: 'Computer Modern Serif', sans-serif; */
 	/* font-family: 'Cutive Mono', serif; */
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 14px;
+	font-size:80%;
 	font-weight: 400;
-	line-height: normal;
+	line-height:200%;
 
 }
 
@@ -30,37 +30,15 @@ a:hover	{
 	box-sizing: border-box;
 }
 
-h1 {
-	font-size: 32px;
-	font-weight: normal;
-	margin-top: 14px;
-	margin-bottom: 14px;
-	padding: 0;
-}
-
-h2 {
-	font-size: 22px;
-	font-weight: normal;
-	margin: 0;
-	padding: 0;
-}
-
-h3 {
-	font-size: 14px;
-	font-weight: 700;
-	margin: 0;
-	padding: 0;
-}
-
 #nav {
-	font-size: 14px;
+	font-size: 2.00em;
 	text-align:center;
 	margin:auto;
 	margin-top: 0;
 	padding-top:0px;
 	margin-bottom:5px;
 	padding-bottom:5px;
-	line-height: normal;
+	line-height: 150%;
 	border-bottom: 4px solid #000;
 	
 }
@@ -71,8 +49,8 @@ h3 {
 	padding-top: 0;
 	margin-bottom: 0;
 	padding-bottom: 0;
-	font-size: 14px;
-	line-height: normal;
+	font-size: 1.25em;
+	line-height: 180%;
 }
 
 #content {
@@ -173,6 +151,19 @@ h3 {
 		max-width: 60%;
 	}
 
+	#nav {
+		font-size: 2em;
+		padding-bottom: 0.5em;
+	}
+
+	h2 {
+		font-size: 3em;
+	}
+
+	h3 {
+		font-size: 2em;
+	}
+
 }
 
 @media screen and (max-width: 400px) {
@@ -189,6 +180,19 @@ h3 {
 
 	#logo img {
 		max-width: 60%;
+	}
+
+	#nav {
+		font-size: 1.1em;
+		padding-bottom: 0.5em;
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	h3 {
+		font-size: 1.5em;
 	}
 
 }
