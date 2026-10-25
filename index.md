@@ -9,9 +9,8 @@ I am a Hedrick Mathematics Fellow at the [University of California, Los Angeles 
 
 <!-- Find [my latest CV]({{ site.baseurl }}{% link /assets/files/CV.pdf %}), find me on [LinkedIn](https://www.linkedin.com/in/shashanksule/) [email me](mailto:ssule@math.ucla.edu) at **ssule[at]math[dot]ucla[dot]edu**. -->
 
-
-
-<a href="{{ site.baseurl }}{% link /assets/files/CV.pdf %}"><i class="fa-solid fa-file-pdf"></i> CV</a> &bull; 
+<!-- <a href="{{ site.baseurl }}{% link /assets/files/CV.pdf %}"><i class="fa-solid fa-file-pdf"></i> CV</a> &bull; -->
+<a href="https://www.overleaf.com/read/htzbffqtpbjd#65ae79"><i class="fa-solid fa-file-pdf"></i> CV</a> &bull;
 <a href="https://github.com/ShashankSule"><i class="fa-brands fa-github"></i> GitHub</a> &bull; 
 <a href="https://www.linkedin.com/in/shashanksule/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> &bull; 
 <a href="mailto:ssule25@umd.edu"><i class="fa-solid fa-envelope"></i> Email</a> (ssule25[at]umd[dot]edu)
