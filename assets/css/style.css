@@ -135,6 +135,25 @@ a:hover	{
 	font-weight: bold;
 }
 
+.repo-pins {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px 12px;
+	align-items: flex-start;
+}
+
+.repo-pins a {
+	flex: 1 1 calc(50% - 12px);
+	max-width: calc(50% - 12px);
+	line-height: 0;
+}
+
+.repo-pins img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
 @media screen and (max-width: 850px) {
 	#main {
 		width: auto;
@@ -180,6 +199,11 @@ a:hover	{
 
 	#logo img {
 		max-width: 60%;
+	}
+
+	.repo-pins a {
+		flex-basis: 100%;
+		max-width: 100%;
 	}
 
 	#nav {
