@@ -7,7 +7,7 @@ categories: research
 selected: false
 authors: "Mirage Modi, <strong>Shashank Sule</strong>, Jonathan Palumbo, Michael Rozowski, Griffin S. Hampton, Mustapha Bouhrara, Wojciech Czaja, Richard G. Spencer."
 venue: "NMR in Biomedicine"
-journal: https://doi.org/10.1002/nbm.70276
+paper: https://doi.org/10.1002/nbm.70276
 arxiv: https://arxiv.org/abs/2501.18074
 code: https://github.com/ShashankSule/ILR-for-MWF
 ---
