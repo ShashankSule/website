@@ -3,10 +3,10 @@ layout: default
 title: 
 permalink: /projects/
 ---
-
+https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
 Usually my projects invovle a heavy dose of computational work. Find my contributions on my Github: 
 
-[![Shashank's Github stats](https://github-readme-stats.vercel.app/api?username=ShashankSule&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Shashank's GitHub stats](https://github-stats-extended.vercel.app/api?username=ShashankSule)](https://github.com/stats-organization/github-stats-extended)
 
 Check out some repositories I've authored/contributed to. Most of these implement projects published as papers. 
 
