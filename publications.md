@@ -22,10 +22,11 @@ permalink: /research/
 <span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
 <br>
 <span style="font-size: 0.9em; font-weight: bold;">
-{% if post.journal %}<a href="{{ post.journal }}">journal</a> /{% endif %}
+{% if post.paper %}<a href="{{ post.paper }}">journal</a> /{% endif %}
 {% if post.arxiv %}<a href="{{ post.arxiv }}">arXiv</a> /{% endif %}
 {% if post.code %}<a href="{{ post.code }}">code</a> /{% endif %}
 {% if post.website %}<a href="{{ post.website }}">website</a> /{% endif %}
+{% if post.slides %}<a href="{{ post.slides }}">slides</a> /{% endif %}
 </span>
 <p style="margin-top: 10px; font-size: 0.92em; line-height: 1.4;">
 {{ post.content | strip_html | truncatewords: 50 }}
