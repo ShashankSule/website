@@ -7,6 +7,7 @@ categories: research
 selected: false
 authors: "<strong>Shashank Sule</strong>, Wojciech Czaja."
 venue: "Sampling Theory and Applications (Oral)"
+paper: https://ieeexplore.ieee.org/abstract/document/11133528
 arxiv: https://arxiv.org/abs/2502.06689
 ---
 We propose a new dimensionality reduction technique termed *Neumann eigenmaps* which uses landmarks to enhance standard spectral embedddings, while preserving an isometry property of diffusion maps. 
