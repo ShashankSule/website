@@ -7,6 +7,7 @@ categories: research
 selected: true
 authors: "<strong>Shashank Sule</strong>, Arnav Mehta, Maria Cameron."
 venue: "SIAM Multiscale Modeling and Simulation"
+paper: https://epubs.siam.org/doi/abs/10.1137/25M177093X
 arxiv: https://arxiv.org/abs/2506.01222
 code: https://github.com/ShashankSule/CV_learning_butane
 ---
