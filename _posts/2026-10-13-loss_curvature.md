@@ -2,7 +2,7 @@
 layout: post
 title:  "Loss Curvature as a Sampling-Free Proxy for Memorization in Diffusion Models"
 date:   2026-10-13
-image: /assets/images/thumbs/boltzjump.png
+image: /assets/images/thumbs/curvature.png
 categories: research
 selected: false
 authors: "<strong>Shashank Sule</strong>, Xinyue Yu, Boonam Shin, Yuxuan Liu, Abolfazl Hashemi, Hayden Schaeffer"
