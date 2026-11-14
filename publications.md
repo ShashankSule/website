@@ -22,7 +22,7 @@ permalink: /research/
 <span style="font-size: 0.9em; font-style: italic;">{{ post.venue }}</span>, {{ post.date | date: "%Y" }}
 <br>
 <span style="font-size: 0.9em; font-weight: bold;">
-{% if post.paper %}<a href="{{ post.paper }}">journal</a> /{% endif %}
+{% if post.paper %}<a href="{{ post.paper }}">paper</a> /{% endif %}
 {% if post.arxiv %}<a href="{{ post.arxiv }}">arXiv</a> /{% endif %}
 {% if post.code %}<a href="{{ post.code }}">code</a> /{% endif %}
 {% if post.website %}<a href="{{ post.website }}">website</a> /{% endif %}
