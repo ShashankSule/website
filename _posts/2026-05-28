@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Boltz-Jump: Accelerated Sampling of the Conformational Landscape of Biomolecular Structure Prediction Models"
+date:   2026-05-28
+image: /assets/images/thumbs/boltzjump.png
+categories: research
+selected: false
+authors: "Ameya Daigavane, <strong>Shashank Sule</strong>, Saeed Saremi, Andrew Martin Watkins, Joseph Kleinhenz, Tess Smidt, Bodhi P. Vani"
+venue: "2026 Workshop on Generative and Agentic AI for Biology"
+arxiv: https://arxiv.org/abs/2603.20587
+paper: https://openreview.net/pdf?id=PeZjk9BcPR
+---
+We perform __walk jump sampling__ with the diffusion trunk in Boltz2, a highly popular open source structure prediction model. In 
+particular, by annealing at a moderately large fixed temperature, we are able to repurpose this diffusion trunk into a fast stationary sampler, 
+followed by one-step denoising to produce a fast mixing ensemble of realistic proteins. On ATLAS and MDCath BoltzJump exhibits nearly 40-50%
+speedup while producing ensembles of commensurate structural validity as compared to state-of-the-art structure prediction baselines.
