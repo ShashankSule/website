@@ -7,6 +7,7 @@ categories: research
 selected: true
 authors: "<strong>Shashank Sule</strong>, Luke Evans, Maria Cameron."
 venue: "Applied and Computational Harmonic Analysis"
+paper: "https://www.sciencedirect.com/science/article/pii/S1063520325000570"
 arxiv: https://arxiv.org/abs/2312.14418
 ---
 We leverage the approximation theory of target measure diffusion maps to obtain sharp error estimates with explicit prefactors, yielding concrete accuracy gains for rare-event quantification via the committor problem in molecular dynamics.
